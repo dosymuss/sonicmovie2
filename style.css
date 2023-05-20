@@ -1,0 +1,116 @@
+body{
+margin: 0;
+}
+.header{
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: blue;
+}
+.head__nav{
+width: 30%;
+display: flex;
+justify-content: space-between;
+}
+
+
+.clka{
+font-size: 20px;;
+color: aquamarine;
+text-decoration: none;
+}
+.Sonic__img{
+width: 100%;
+margin: 0;
+}
+.desc__Sonic{
+background-color: blue;
+color: rgb(red, green, rgb(255, 0, 0));
+margin: 0;
+font-size: 25px;
+}
+.films-show{
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 650px;
+background-color: red;
+}
+.films-af{
+width: 320px;
+height: 520px;
+background-color: blue;
+color: white;
+text-align: center;
+border-radius: 30px;
+transition: 1s;
+}
+.films__img{
+width: 320px;
+height: 480px;
+border-radius: 30px;
+}
+.films-af:hover{
+    transform: scale(1.2);
+}
+.films-main__title{
+margin: 0;
+padding-top: 25px;
+}
+.history__div{
+    width: 70%;
+}
+.history{
+background-color: blue;
+height: 500px;
+color: white;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.history__p{
+margin: 0;
+font-size: 25px;
+}
+.photo__img{
+width: 320px;
+height: 480px;
+border-radius: 15px;
+transition: 1s;
+margin: 5px;
+}
+.photo__img:hover{
+    transform: scale(1.2);
+}
+.photos{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+background-color: #8b0000;
+padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
